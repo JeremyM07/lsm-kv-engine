@@ -2,3 +2,4 @@ C:\Users\jerem\IdeaProjects\LSM-ENGINE\lsm-kv-engine\src\main\java\com\jeremy\ls
 C:\Users\jerem\IdeaProjects\LSM-ENGINE\lsm-kv-engine\src\main\java\com\jeremy\lsm\codec\CorruptRecordException.java
 C:\Users\jerem\IdeaProjects\LSM-ENGINE\lsm-kv-engine\src\main\java\com\jeremy\lsm\codec\Record.java
 C:\Users\jerem\IdeaProjects\LSM-ENGINE\lsm-kv-engine\src\main\java\com\jeremy\lsm\codec\RecordCodec.java
+C:\Users\jerem\IdeaProjects\LSM-ENGINE\lsm-kv-engine\src\main\java\com\jeremy\lsm\wal\WriteAheadLog.java
